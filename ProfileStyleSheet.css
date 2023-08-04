@@ -57,7 +57,7 @@ input[type=password]
 #d2
 {
 	float:right;
-	width:45%;
+	width:50%;
 	
 	
 	
@@ -74,7 +74,7 @@ input[type=password]
 #d4
 {
 	float:right;
-	width:45%;
+	width:50%;
 	
 	
 }
@@ -89,13 +89,13 @@ input[type=password]
 #d6
 {
 	float:right;
-	width:45%;
+	width:50%;
 	
 	
 	
 }
 img
 {
- width:570px; 
- height:570px;
+ width:585px; 
+ height:585px;
 }
